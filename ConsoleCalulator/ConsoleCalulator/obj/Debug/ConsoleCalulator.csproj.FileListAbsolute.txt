@@ -1,0 +1,6 @@
+C:\GitHub\ConsoleCalulator\ConsoleCalulator\bin\Debug\ConsoleCalulator.exe.config
+C:\GitHub\ConsoleCalulator\ConsoleCalulator\bin\Debug\ConsoleCalulator.exe
+C:\GitHub\ConsoleCalulator\ConsoleCalulator\bin\Debug\ConsoleCalulator.pdb
+C:\GitHub\ConsoleCalulator\ConsoleCalulator\obj\Debug\ConsoleCalulator.csprojResolveAssemblyReference.cache
+C:\GitHub\ConsoleCalulator\ConsoleCalulator\obj\Debug\ConsoleCalulator.exe
+C:\GitHub\ConsoleCalulator\ConsoleCalulator\obj\Debug\ConsoleCalulator.pdb
