@@ -4,3 +4,9 @@ C:\GitHub\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\bin\Debug\ConsoleCal
 C:\GitHub\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\obj\Debug\ConsoleCalculatorAdvance.csprojResolveAssemblyReference.cache
 C:\GitHub\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\obj\Debug\ConsoleCalculatorAdvance.exe
 C:\GitHub\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\obj\Debug\ConsoleCalculatorAdvance.pdb
+C:\Projects\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\bin\Debug\ConsoleCalculatorAdvance.exe.config
+C:\Projects\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\bin\Debug\ConsoleCalculatorAdvance.exe
+C:\Projects\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\bin\Debug\ConsoleCalculatorAdvance.pdb
+C:\Projects\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\obj\Debug\ConsoleCalculatorAdvance.csprojResolveAssemblyReference.cache
+C:\Projects\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\obj\Debug\ConsoleCalculatorAdvance.exe
+C:\Projects\ConsoleCalculatorAdvance\ConsoleCalculatorAdvance\obj\Debug\ConsoleCalculatorAdvance.pdb
